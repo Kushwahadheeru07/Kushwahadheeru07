@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dheerendra Kushwaha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Phising Domain Detection**
+- 🔭 I’m currently working on **Students!!**
 
 - 🌱 I’m currently learning **Deep Learning ,N L P**
 
@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dheerendra kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dheerendra kushwaha" height="30" width="40" /></a>
-<a href="https://kaggle.com/dheeru kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dheeru kushwaha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dheerendra-kushwaha-5b9ab724b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dheerendra kushwaha" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/dheerukushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dheeru kushwaha" height="30" width="40" /></a>
 <a href="https://fb.com/kushwaha dheeru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kushwaha dheeru" height="30" width="40" /></a>
 <a href="https://instagram.com/kushwaha_dheeru07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kushwaha_dheeru07" height="30" width="40" /></a>
 </p>
