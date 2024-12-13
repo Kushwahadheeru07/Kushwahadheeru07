@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/dheerendra-kushwaha-5b9ab724b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dheerendra kushwaha" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/dheerukushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dheeru kushwaha" height="30" width="40" /></a>
 <a href="https://www.facebook.com/kushwahadheeru07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kushwaha dheeru" height="30" width="40" /></a>
-<a href="https://instagram.com/kushwaha_dheeru07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kushwaha_dheeru07" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kushwaha_dheeru07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kushwaha_dheeru07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
